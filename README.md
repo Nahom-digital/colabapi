@@ -300,8 +300,6 @@ It keeps running. Your shell lives inside a tmux session on the Colab VM, so the
 **Does it work on a VPS / headless server?**
 Yes, that's the main use case. Sign in once in a browser, then run everything from the server, optionally as a systemd service.
 
-**Is this affiliated with Google?**
-No. `colabapi` is an independent, open source wrapper. "Google Colab" is a trademark of Google LLC.
 
 ## Contributing
 
